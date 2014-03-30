@@ -1,6 +1,10 @@
 - url: http://gabrielecirulli.github.io/2048/
   name: Original
   author: Gabriele Cirulli
+  
+- url: http://la-oui.ch/2048/
+  name: Original (backup)
+  author: Gabriele Cirulli (hosted by J2R2)
 
 - url: http://ov3y.github.io/2048-AI/
   name: 2048 AI
